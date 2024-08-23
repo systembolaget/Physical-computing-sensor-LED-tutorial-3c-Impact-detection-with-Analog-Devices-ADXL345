@@ -1,0 +1,1 @@
+# Physical-computing-sensor-LED-tutorial-3c-Impact-detection-with-Analog-Devices-ADXL345
