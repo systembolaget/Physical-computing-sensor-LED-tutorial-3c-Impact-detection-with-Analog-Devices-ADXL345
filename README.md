@@ -1,12 +1,12 @@
 # Physical computing sensor LED tutorial - Impact detection with Analog Devices ADXL345
 
-?
+Rate knocks, punches, kicks or tosses. Think sports, fitness, or games. How to handle multiple threshold crossings with Arduino
 
 ### Setup
 
 You can click the image to play the associated YouTube video
 
-?
+![](Assets/3c%20result.jpg)
 
 ### Schematic
 
