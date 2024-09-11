@@ -6,7 +6,7 @@ Rate knocks, punches, kicks or tosses. Think sports, fitness, or games. How to h
 
 You can click the image to play the associated YouTube video
 
-![](Assets/3c%20result.jpg)
+[![Alt text](Assets/3c%20result.jpg)](https://youtu.be/oAVPR7d2vUU/)
 
 ### Schematic
 
